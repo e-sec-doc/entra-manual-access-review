@@ -62,10 +62,10 @@ Two users were found to be mismatched to the role-to-group matrix.
 
 ## Evidence
 ### `test.user3` — IT-Admins membership
-![it-admins evidence](evidence/it-admins.png)
+![it-admins evidence](./evidence/it-admins.png)
 
 ### `test.user7` — HR-App-Users membership
-![hr-app-users evidence](evidence/hr-app-users.png)
+![hr-app-users evidence](./evidence/hr-app-users.png)
 
 ## Assumptions / limitations
 - Entra ID P2 was not available, so access reviews were performed manually.
