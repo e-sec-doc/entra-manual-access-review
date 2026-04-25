@@ -26,11 +26,7 @@ Create a **manual access review package" in **Microsoft Entra ID** by validating
   -'test.user8'
 
   ## Review method
-  Because Entra ID P2 was not available, the access review was completed **manually** by:
-  1. Reviewing current group membership for each user
-  2. Comparing membership to the **Role-to-Group Access Matrix**
-  3. Flagging mismatches as findings
-  4. Documenting risk + recommendation and capturing evidence screenshots
+See: [Manual access review procedure](docs/01-manual-access-review-procedure.md)
 
   ## Role-to-Group Access Matrix (source of truth)
 | Role/Title | Division | Expected Entra Group(s) | Notes/Justification |
